@@ -1,0 +1,39 @@
+:root {
+    --color-white: rgb(255,255,255);
+    --color-white-v: rgb(232,230,230);
+    --color-black: rgb(0,0,0);
+    --color-black-v: rgb(19,25,70); 
+
+    --color-bg: rgb(82, 148, 182);
+    --color-yellow: rgb(255,203,5);
+
+    --color-grey-3: rgb(114,114,114);
+    --color-grey-2: rgb(153,153,151);
+    --color-grey-1: rgb(176,176,176);
+    --color-grey-0: rgb(199,199,199);
+ 
+    --color-purple-0: rgb(181,188,240);
+    --color-purple-1: rgb(143,152,226);
+    --color-purple-2: rgb(56,74,211);
+    --color-purple-3: rgb(85,14,155);
+    --color-purple-4: rgb(37,49,141);
+    --color-purple-5: rgb(43,7,77);
+
+ 
+    --color-orange-0: rgb(249,197,180);
+    --color-orange-1: rgb(243,167,143);
+    --color-orange-2: rgb(237,88,41);
+    --color-orange-3: rgb(158,59,27);
+    --color-orange-4: rgb(79,29,14);
+
+
+    --color-green-0: rgb(177,211,187);
+    --color-green-1: rgb(127,168,139);
+    --color-green-2: rgb(64,124,81);
+    --color-green-3: rgb(43,83,54);
+    --color-green-4: rgb(21,41,27);
+}
+
+body {
+    background: var(--color-bg);
+}
