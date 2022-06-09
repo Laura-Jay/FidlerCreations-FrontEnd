@@ -1,0 +1,20 @@
+nav {
+    margin: 30px auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.nav-btn {
+    color: var(--color-yellow);
+    background: var(--color-black-v);
+    border-radius: 8px;
+    padding: 8px 15px;
+    font-size: 1.4rem;
+}
+
+.nav-btn:hover {
+    background: var(--color-yellow);
+    color: var(--color-black-v)
+}

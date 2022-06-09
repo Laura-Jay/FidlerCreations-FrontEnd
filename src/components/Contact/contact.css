@@ -1,0 +1,32 @@
+.contact--container {
+    display: flex;
+    background: var(--color-grey-0);
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    border-radius: 20px;
+    width: 30vw;
+    align-items: center;
+    margin: 30px auto;
+    padding: 20px;
+}
+
+.icon--container {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
+
+.icon {
+    background: var(--color-black-v);
+    color: var(--color-yellow);
+    font-size: 1rem;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.icon:hover {
+    color: var(--color-black-v);
+    background: var(--color-yellow);
+}
